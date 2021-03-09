@@ -1,0 +1,10 @@
+Sort,Case,Moves,Comparisons
+Insertion,Best,0,999
+Insertion,Average,990,247479
+Insertion,Worst,999,500499
+Heap,Best,9708,20416
+Heap,Average,9069,19138
+Heap,Worst,8316,17632
+Quick,Best,500499,999999
+Quick,Average,8090,19916
+Quick,Worst,250499,749999
